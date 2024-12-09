@@ -1,4 +1,4 @@
-Hi there 👋 I'm **Emilio Cliff**! Welcome to my GitHub! I'm a passionate **Software Engineer** with a knack for creating efficient and scalable systems. 🚀 I thrive in the backend world with **Golang**, but I also enjoy building dynamic user experiences using **React** and **TypeScript**. Here’s a little about me:
+Hi there 👋 I'm **EMILIO CLIFF** a passionate **Software Engineer** with a knack for creating efficient and scalable systems that solves problems. 🚀 I thrive in the backend world with **Golang**, but I also enjoy building dynamic user experiences using **React** and **TypeScript**. Here’s a little about me:
 
 ---
 
