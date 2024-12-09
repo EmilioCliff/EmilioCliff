@@ -1,6 +1,4 @@
-# Hi there 👋 I'm Emilio Cliff!
-
-Welcome to my GitHub! I'm a passionate **Software Engineer** with a knack for creating efficient and scalable systems. 🚀 I thrive in the backend world with **Golang**, but I also enjoy building dynamic user experiences using **React** and **TypeScript**. Here’s a little about me:
+Hi there 👋 I'm Emilio Cliff! Welcome to my GitHub! I'm a passionate **Software Engineer** with a knack for creating efficient and scalable systems. 🚀 I thrive in the backend world with **Golang**, but I also enjoy building dynamic user experiences using **React** and **TypeScript**. Here’s a little about me:
 
 ---
 
@@ -12,33 +10,13 @@ Welcome to my GitHub! I'm a passionate **Software Engineer** with a knack for cr
 - 📚 Continuously learning and refining my craft in **cloud technologies** and **container orchestration**.
 
 ---
-
 ### 💻 Tech Stack
-**Languages:**  
-- Go (Golang)  
-- JavaScript/TypeScript  
-- Python  
 
-**Frontend:**  
-- React  
-- HTML/CSS  
-- TailwindCSS  
-
-**Backend:**  
-- Flask  
-- gRPC  
-- REST APIs  
-
-**Databases:**  
-- PostgreSQL  
-- MySQL  
-- SQLite
-- Firestore
-
-**Tools & Platforms:**  
-- Docker  
-- Kubernetes  
-- GitHub Actions  
+**Languages:** Go, JavaScript/TypeScript, Python  
+**Frontend:** React, HTML/CSS, TailwindCSS  
+**Backend:** Flask, gRPC, REST APIs  
+**Databases:** PostgreSQL, MySQL, SQLite, Firestore  
+**Tools & Platforms:** Docker, Kubernetes, GitHub Actions
 
 ---
 
