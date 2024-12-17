@@ -30,7 +30,7 @@ Hi there 👋 I'm **EMILIO CLIFF** a passionate **Software Engineer** with a kna
 ### 📫 How to Reach Me 
 - ✍️ **I write articles**:  
   I love sharing what I’ve learned along the way, so other developers can grow and have fun with coding too! 🚀
-- **Portfolio:** [https://emiliocliff.com](https://emilio-cliff.vercel.app/blogs)  
+- **Portfolio:** [https://emiliocliff.com](https://emiliocliff.com/blogs)  
 
 ---
 
